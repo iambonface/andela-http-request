@@ -1,6 +1,6 @@
 # andela-http-request
 
-## This is A simple command line application which can consumes a Public API using a HTTP client library.
+### This is A simple command line application which can consumes a Public API using a HTTP client library.
 
 ###Usage
 
